@@ -1,0 +1,2 @@
+# Data-Analytics-Day22-BigData-DistributedSystems
+This repository contains the notes, explanations, and resources, Day 22 of my Data Analytics learning journey. The focus is on Big Data and Distributed Systems — understanding why big data matters, the basics of distributed computing, the Hadoop ecosystem, Apache Spark, and real-world applications in industries like healthcare, finance, and retail.
