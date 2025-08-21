@@ -1,0 +1,52 @@
+📘 Topics & Explanations 
+
+1. What is Big Data?
+==================
+Definition: Data that is too large, fast, or complex for traditional databases to handle.
+
+Characteristics (3Vs + 2):
+Volume – Huge amounts of data.
+Velocity – High-speed data generation (e.g., social media, IoT).
+Variety – Structured, unstructured, semi-structured data.
+Veracity – Data quality & trustworthiness.
+Value – Insights extracted from data.
+
+Example: Netflix processes petabytes of data daily to recommend movies.
+
+
+2. Distributed Computing Basics
+=============================
+Definition: Multiple machines work together as a single system.
+
+Why needed?: A single computer cannot store or process massive datasets.
+
+Example: Google search runs on thousands of servers worldwide.
+
+
+3. Hadoop Ecosystem
+==================
+HDFS (Hadoop Distributed File System) – Stores big data across clusters.
+MapReduce – Processes data in parallel.
+YARN – Resource management.
+
+Example: An e-commerce platform storing billions of product clicks.
+
+
+4. Apache Spark
+==============
+Definition: A fast big data processing framework, much quicker than MapReduce.
+
+Features:
+In-memory computing.
+Supports batch + streaming.
+APIs in Python, Java, Scala, R.
+
+Example: Uber uses Spark for real-time ride pricing and driver-passenger matching.
+
+
+5. Real-World Case Study
+=====================
+Healthcare: Big Data + Spark analyze patient histories and predict diseases.
+Finance: Fraud detection from real-time transactions.
+Retail: Walmart uses Big Data to optimize inventory & sales trends.
+
